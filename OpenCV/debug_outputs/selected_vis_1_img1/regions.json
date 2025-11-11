@@ -1,0 +1,278 @@
+{
+  "structured": [
+    {
+      "bbox": [
+        557,
+        631,
+        398,
+        222
+      ],
+      "label": "bar",
+      "score": 0.9937185929648241
+    },
+    {
+      "bbox": [
+        557,
+        52,
+        398,
+        222
+      ],
+      "label": "bar",
+      "score": 0.9936506858617411
+    }
+  ],
+  "unstructured": [
+    {
+      "bbox": [
+        340,
+        121,
+        117,
+        61
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        95,
+        123,
+        75,
+        57
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        95,
+        409,
+        134,
+        67
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        280,
+        404,
+        62,
+        68
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        575,
+        417,
+        133,
+        73
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        759,
+        423,
+        62,
+        68
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        95,
+        707,
+        88,
+        42
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        187,
+        698,
+        155,
+        55
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        575,
+        973,
+        134,
+        120
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        95,
+        977,
+        134,
+        85
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        280,
+        981,
+        62,
+        83
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        227,
+        978,
+        42,
+        76
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        759,
+        977,
+        62,
+        73
+      ],
+      "label": "segment",
+      "score": 0.8
+    }
+  ],
+  "merged": [
+    {
+      "bbox": [
+        557,
+        631,
+        398,
+        222
+      ],
+      "label": "bar",
+      "score": 0.9937185929648241
+    },
+    {
+      "bbox": [
+        557,
+        52,
+        398,
+        222
+      ],
+      "label": "bar",
+      "score": 0.9936506858617411
+    },
+    {
+      "bbox": [
+        340,
+        121,
+        117,
+        61
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        95,
+        123,
+        75,
+        57
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        95,
+        409,
+        134,
+        67
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        280,
+        404,
+        62,
+        68
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        575,
+        417,
+        133,
+        73
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        759,
+        423,
+        62,
+        68
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        575,
+        973,
+        134,
+        120
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        759,
+        977,
+        62,
+        73
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        95,
+        698,
+        247,
+        55
+      ],
+      "label": "segment+segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        95,
+        977,
+        247,
+        87
+      ],
+      "label": "segment+segment+segment",
+      "score": 0.8
+    }
+  ]
+}

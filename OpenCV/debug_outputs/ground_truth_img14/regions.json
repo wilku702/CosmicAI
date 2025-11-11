@@ -1,0 +1,378 @@
+{
+  "structured": [
+    {
+      "bbox": [
+        82,
+        346,
+        776,
+        281
+      ],
+      "label": "bar",
+      "score": 0.9954873977326926
+    },
+    {
+      "bbox": [
+        82,
+        10,
+        776,
+        281
+      ],
+      "label": "bar",
+      "score": 0.9954690538210368
+    },
+    {
+      "bbox": [
+        37,
+        619,
+        827,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        76,
+        621,
+        787,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        75,
+        5,
+        789,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        75,
+        283,
+        789,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        76,
+        285,
+        787,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        76,
+        339,
+        787,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        75,
+        341,
+        789,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        76,
+        3,
+        787,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        75,
+        431,
+        789,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        75,
+        533,
+        789,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        45,
+        228,
+        819,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        45,
+        225,
+        819,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        78,
+        80,
+        783,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        78,
+        77,
+        783,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        83,
+        535,
+        716,
+        12
+      ],
+      "label": "line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        83,
+        78,
+        778,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        83,
+        534,
+        778,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        83,
+        79,
+        778,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        45,
+        227,
+        816,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        83,
+        430,
+        778,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    }
+  ],
+  "unstructured": [
+    {
+      "bbox": [
+        577,
+        95,
+        81,
+        47
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        728,
+        100,
+        96,
+        54
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        762,
+        461,
+        61,
+        50
+      ],
+      "label": "segment",
+      "score": 0.8
+    }
+  ],
+  "merged": [
+    {
+      "bbox": [
+        82,
+        10,
+        776,
+        281
+      ],
+      "label": "bar",
+      "score": 0.9954690538210368
+    },
+    {
+      "bbox": [
+        577,
+        95,
+        81,
+        47
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        728,
+        100,
+        96,
+        54
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        762,
+        461,
+        61,
+        50
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        75,
+        430,
+        789,
+        13
+      ],
+      "label": "axis+axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        78,
+        77,
+        783,
+        15
+      ],
+      "label": "axis+axis+axis+axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        75,
+        3,
+        789,
+        14
+      ],
+      "label": "axis+axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        75,
+        283,
+        789,
+        14
+      ],
+      "label": "axis+axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        75,
+        339,
+        789,
+        14
+      ],
+      "label": "axis+axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        37,
+        619,
+        827,
+        14
+      ],
+      "label": "axis+axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        45,
+        225,
+        819,
+        15
+      ],
+      "label": "axis+axis+axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        75,
+        346,
+        789,
+        281
+      ],
+      "label": "bar+line+axis+axis",
+      "score": 0.8977436988663463
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "structured": [
+    {
+      "bbox": [
+        73,
+        86,
+        623,
+        623
+      ],
+      "label": "bar",
+      "score": 0.9906255394469364
+    },
+    {
+      "bbox": [
+        732,
+        9,
+        46,
+        773
+      ],
+      "label": "bar",
+      "score": 0.8918949322234097
+    },
+    {
+      "bbox": [
+        726,
+        4,
+        12,
+        779
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        767,
+        4,
+        12,
+        779
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        69,
+        80,
+        12,
+        649
+      ],
+      "label": "line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        67,
+        82,
+        634,
+        12
+      ],
+      "label": "line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        689,
+        81,
+        12,
+        628
+      ],
+      "label": "line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        687,
+        80,
+        12,
+        630
+      ],
+      "label": "line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        68,
+        80,
+        632,
+        12
+      ],
+      "label": "line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        67,
+        81,
+        12,
+        648
+      ],
+      "label": "line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        51,
+        696,
+        647,
+        12
+      ],
+      "label": "line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        51,
+        698,
+        649,
+        12
+      ],
+      "label": "line",
+      "score": 0.9
+    }
+  ],
+  "unstructured": [
+    {
+      "bbox": [
+        308,
+        91,
+        380,
+        420
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        82,
+        93,
+        79,
+        157
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        167,
+        94,
+        73,
+        87
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        159,
+        171,
+        81,
+        80
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        467,
+        394,
+        55,
+        113
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        308,
+        404,
+        178,
+        295
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        393,
+        400,
+        295,
+        299
+      ],
+      "label": "segment",
+      "score": 0.8
+    }
+  ],
+  "merged": [
+    {
+      "bbox": [
+        73,
+        86,
+        623,
+        623
+      ],
+      "label": "bar",
+      "score": 0.9906255394469364
+    },
+    {
+      "bbox": [
+        308,
+        91,
+        380,
+        420
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        82,
+        93,
+        79,
+        157
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        467,
+        394,
+        55,
+        113
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        308,
+        404,
+        178,
+        295
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        393,
+        400,
+        295,
+        299
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        67,
+        80,
+        14,
+        649
+      ],
+      "label": "line+line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        67,
+        80,
+        634,
+        14
+      ],
+      "label": "line+line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        687,
+        80,
+        14,
+        630
+      ],
+      "label": "line+line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        51,
+        696,
+        649,
+        14
+      ],
+      "label": "line+line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        726,
+        4,
+        53,
+        779
+      ],
+      "label": "axis+bar+axis",
+      "score": 0.7479737330558524
+    },
+    {
+      "bbox": [
+        159,
+        94,
+        81,
+        157
+      ],
+      "label": "segment+segment",
+      "score": 0.8
+    }
+  ]
+}

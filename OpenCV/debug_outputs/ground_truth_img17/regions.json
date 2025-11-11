@@ -1,0 +1,27 @@
+{
+  "structured": [],
+  "unstructured": [
+    {
+      "bbox": [
+        237,
+        235,
+        392,
+        123
+      ],
+      "label": "segment",
+      "score": 0.8
+    }
+  ],
+  "merged": [
+    {
+      "bbox": [
+        237,
+        235,
+        392,
+        123
+      ],
+      "label": "segment",
+      "score": 0.8
+    }
+  ]
+}

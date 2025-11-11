@@ -1,0 +1,1172 @@
+[
+  {
+    "image": "images/ground_truth_img0.png",
+    "structured_regions": 16,
+    "unstructured_regions": 9,
+    "merged_regions": 12,
+    "structured_coverage": 0.4642399730367374,
+    "unstructured_coverage": 0.10127564829283738,
+    "merged_coverage": 0.6430830039525691
+  },
+  {
+    "image": "images/ground_truth_img1.png",
+    "structured_regions": 8,
+    "unstructured_regions": 14,
+    "merged_regions": 12,
+    "structured_coverage": 0.38653629767586234,
+    "unstructured_coverage": 0.0831089382945977,
+    "merged_coverage": 0.40052380398091025
+  },
+  {
+    "image": "images/ground_truth_img10.png",
+    "structured_regions": 13,
+    "unstructured_regions": 0,
+    "merged_regions": 12,
+    "structured_coverage": 0.7863229166666666,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.7714729166666666
+  },
+  {
+    "image": "images/ground_truth_img11.png",
+    "structured_regions": 1,
+    "unstructured_regions": 1,
+    "merged_regions": 2,
+    "structured_coverage": 0.2974221565185254,
+    "unstructured_coverage": 0.3078064204831275,
+    "merged_coverage": 0.6052285770016529
+  },
+  {
+    "image": "images/ground_truth_img12.png",
+    "structured_regions": 6,
+    "unstructured_regions": 19,
+    "merged_regions": 12,
+    "structured_coverage": 0.6031309717349762,
+    "unstructured_coverage": 0.6440952910641453,
+    "merged_coverage": 0.6754834431419526
+  },
+  {
+    "image": "images/ground_truth_img13.png",
+    "structured_regions": 12,
+    "unstructured_regions": 12,
+    "merged_regions": 12,
+    "structured_coverage": 0.8729733406680508,
+    "unstructured_coverage": 0.6681969861747336,
+    "merged_coverage": 1.4619579132559808
+  },
+  {
+    "image": "images/ground_truth_img14.png",
+    "structured_regions": 22,
+    "unstructured_regions": 3,
+    "merged_regions": 12,
+    "structured_coverage": 1.0634576727764986,
+    "unstructured_coverage": 0.020477403599234032,
+    "merged_coverage": 0.9027149013458863
+  },
+  {
+    "image": "images/ground_truth_img15.png",
+    "structured_regions": 5,
+    "unstructured_regions": 1,
+    "merged_regions": 6,
+    "structured_coverage": 0.9037190273668639,
+    "unstructured_coverage": 0.7889353735207101,
+    "merged_coverage": 1.692654400887574
+  },
+  {
+    "image": "images/ground_truth_img16.png",
+    "structured_regions": 18,
+    "unstructured_regions": 3,
+    "merged_regions": 12,
+    "structured_coverage": 0.2218295038798174,
+    "unstructured_coverage": 0.21858912787748627,
+    "merged_coverage": 0.44080445504484184
+  },
+  {
+    "image": "images/ground_truth_img17.png",
+    "structured_regions": 0,
+    "unstructured_regions": 1,
+    "merged_regions": 1,
+    "structured_coverage": 0.0,
+    "unstructured_coverage": 0.11845518867924529,
+    "merged_coverage": 0.11845518867924529
+  },
+  {
+    "image": "images/ground_truth_img18.png",
+    "structured_regions": 0,
+    "unstructured_regions": 0,
+    "merged_regions": 0,
+    "structured_coverage": 0.0,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.0
+  },
+  {
+    "image": "images/ground_truth_img19.png",
+    "structured_regions": 2,
+    "unstructured_regions": 3,
+    "merged_regions": 5,
+    "structured_coverage": 0.6267909494099075,
+    "unstructured_coverage": 0.19508381568067354,
+    "merged_coverage": 0.8218747650905811
+  },
+  {
+    "image": "images/ground_truth_img2.png",
+    "structured_regions": 9,
+    "unstructured_regions": 15,
+    "merged_regions": 12,
+    "structured_coverage": 0.8712244897959184,
+    "unstructured_coverage": 0.24584089191232047,
+    "merged_coverage": 0.9802418745275888
+  },
+  {
+    "image": "images/ground_truth_img20.png",
+    "structured_regions": 4,
+    "unstructured_regions": 1,
+    "merged_regions": 5,
+    "structured_coverage": 0.7725409352978859,
+    "unstructured_coverage": 0.7577988468930172,
+    "merged_coverage": 1.5303397821909033
+  },
+  {
+    "image": "images/ground_truth_img21.png",
+    "structured_regions": 15,
+    "unstructured_regions": 1,
+    "merged_regions": 12,
+    "structured_coverage": 2.215345860566449,
+    "unstructured_coverage": 0.2944140074330386,
+    "merged_coverage": 1.799416089965398
+  },
+  {
+    "image": "images/ground_truth_img22.png",
+    "structured_regions": 9,
+    "unstructured_regions": 0,
+    "merged_regions": 9,
+    "structured_coverage": 0.9340869749820367,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.9340869749820367
+  },
+  {
+    "image": "images/ground_truth_img23.png",
+    "structured_regions": 9,
+    "unstructured_regions": 4,
+    "merged_regions": 12,
+    "structured_coverage": 0.9269833104709648,
+    "unstructured_coverage": 0.03583676268861454,
+    "merged_coverage": 0.9420969691031419
+  },
+  {
+    "image": "images/ground_truth_img24.png",
+    "structured_regions": 5,
+    "unstructured_regions": 1,
+    "merged_regions": 6,
+    "structured_coverage": 0.675510175018869,
+    "unstructured_coverage": 0.6245567565258257,
+    "merged_coverage": 1.3000669315446947
+  },
+  {
+    "image": "images/ground_truth_img25.png",
+    "structured_regions": 7,
+    "unstructured_regions": 1,
+    "merged_regions": 8,
+    "structured_coverage": 0.8659033089796776,
+    "unstructured_coverage": 0.7404683967343507,
+    "merged_coverage": 1.6063717057140283
+  },
+  {
+    "image": "images/ground_truth_img26.png",
+    "structured_regions": 24,
+    "unstructured_regions": 5,
+    "merged_regions": 12,
+    "structured_coverage": 1.3458815460703186,
+    "unstructured_coverage": 0.19167569745123791,
+    "merged_coverage": 1.0401066714608895
+  },
+  {
+    "image": "images/ground_truth_img27.png",
+    "structured_regions": 25,
+    "unstructured_regions": 1,
+    "merged_regions": 12,
+    "structured_coverage": 1.089056860887247,
+    "unstructured_coverage": 0.004486271837838413,
+    "merged_coverage": 0.9416561092716994
+  },
+  {
+    "image": "images/ground_truth_img28.png",
+    "structured_regions": 15,
+    "unstructured_regions": 0,
+    "merged_regions": 12,
+    "structured_coverage": 0.9186307037194003,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.9070188290851849
+  },
+  {
+    "image": "images/ground_truth_img29.png",
+    "structured_regions": 5,
+    "unstructured_regions": 1,
+    "merged_regions": 6,
+    "structured_coverage": 0.6853883184461697,
+    "unstructured_coverage": 0.6159946573169713,
+    "merged_coverage": 1.301382975763141
+  },
+  {
+    "image": "images/ground_truth_img3.png",
+    "structured_regions": 9,
+    "unstructured_regions": 1,
+    "merged_regions": 10,
+    "structured_coverage": 0.9193160041275613,
+    "unstructured_coverage": 0.039932517648600396,
+    "merged_coverage": 0.9592485217761617
+  },
+  {
+    "image": "images/ground_truth_img30.png",
+    "structured_regions": 9,
+    "unstructured_regions": 0,
+    "merged_regions": 9,
+    "structured_coverage": 0.9966463492387341,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.9966463492387341
+  },
+  {
+    "image": "images/ground_truth_img31.png",
+    "structured_regions": 9,
+    "unstructured_regions": 0,
+    "merged_regions": 9,
+    "structured_coverage": 1.0557221406372732,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 1.0557221406372732
+  },
+  {
+    "image": "images/ground_truth_img32.png",
+    "structured_regions": 9,
+    "unstructured_regions": 0,
+    "merged_regions": 9,
+    "structured_coverage": 1.046234759741812,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 1.046234759741812
+  },
+  {
+    "image": "images/ground_truth_img33.png",
+    "structured_regions": 10,
+    "unstructured_regions": 0,
+    "merged_regions": 10,
+    "structured_coverage": 1.046587323774911,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 1.046587323774911
+  },
+  {
+    "image": "images/ground_truth_img34.png",
+    "structured_regions": 12,
+    "unstructured_regions": 0,
+    "merged_regions": 12,
+    "structured_coverage": 1.0534627092846272,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 1.0534627092846272
+  },
+  {
+    "image": "images/ground_truth_img35.png",
+    "structured_regions": 10,
+    "unstructured_regions": 1,
+    "merged_regions": 11,
+    "structured_coverage": 1.0445904389152922,
+    "unstructured_coverage": 0.008713074270804212,
+    "merged_coverage": 1.0533035131860964
+  },
+  {
+    "image": "images/ground_truth_img36.png",
+    "structured_regions": 5,
+    "unstructured_regions": 0,
+    "merged_regions": 5,
+    "structured_coverage": 0.9209106510117658,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.9209106510117658
+  },
+  {
+    "image": "images/ground_truth_img37.png",
+    "structured_regions": 11,
+    "unstructured_regions": 2,
+    "merged_regions": 12,
+    "structured_coverage": 1.0774192260074285,
+    "unstructured_coverage": 0.04565544417375561,
+    "merged_coverage": 1.0959436612218272
+  },
+  {
+    "image": "images/ground_truth_img38.png",
+    "structured_regions": 2,
+    "unstructured_regions": 1,
+    "merged_regions": 3,
+    "structured_coverage": 0.8121865871833085,
+    "unstructured_coverage": 0.8038754098360655,
+    "merged_coverage": 1.6160619970193741
+  },
+  {
+    "image": "images/ground_truth_img39.png",
+    "structured_regions": 9,
+    "unstructured_regions": 0,
+    "merged_regions": 9,
+    "structured_coverage": 0.8821496193046772,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.8821496193046772
+  },
+  {
+    "image": "images/ground_truth_img4.png",
+    "structured_regions": 2,
+    "unstructured_regions": 2,
+    "merged_regions": 4,
+    "structured_coverage": 0.5025315789473684,
+    "unstructured_coverage": 0.5288894736842106,
+    "merged_coverage": 1.031421052631579
+  },
+  {
+    "image": "images/ground_truth_img40.png",
+    "structured_regions": 9,
+    "unstructured_regions": 0,
+    "merged_regions": 9,
+    "structured_coverage": 0.8157693660776556,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.8157693660776556
+  },
+  {
+    "image": "images/ground_truth_img41.png",
+    "structured_regions": 8,
+    "unstructured_regions": 0,
+    "merged_regions": 8,
+    "structured_coverage": 0.8986702118025495,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.8986702118025495
+  },
+  {
+    "image": "images/ground_truth_img42.png",
+    "structured_regions": 12,
+    "unstructured_regions": 12,
+    "merged_regions": 12,
+    "structured_coverage": 0.8729733406680508,
+    "unstructured_coverage": 0.6681969861747336,
+    "merged_coverage": 1.4619579132559808
+  },
+  {
+    "image": "images/ground_truth_img43.png",
+    "structured_regions": 24,
+    "unstructured_regions": 5,
+    "merged_regions": 12,
+    "structured_coverage": 1.3458815460703186,
+    "unstructured_coverage": 0.19167569745123791,
+    "merged_coverage": 1.0401066714608895
+  },
+  {
+    "image": "images/ground_truth_img44.png",
+    "structured_regions": 5,
+    "unstructured_regions": 9,
+    "merged_regions": 12,
+    "structured_coverage": 0.9360393603936039,
+    "unstructured_coverage": 1.2868782994050036,
+    "merged_coverage": 1.6505558596255818
+  },
+  {
+    "image": "images/ground_truth_img45.png",
+    "structured_regions": 25,
+    "unstructured_regions": 1,
+    "merged_regions": 12,
+    "structured_coverage": 1.089056860887247,
+    "unstructured_coverage": 0.004486271837838413,
+    "merged_coverage": 0.9416561092716994
+  },
+  {
+    "image": "images/ground_truth_img5.png",
+    "structured_regions": 5,
+    "unstructured_regions": 7,
+    "merged_regions": 12,
+    "structured_coverage": 0.5094736842105263,
+    "unstructured_coverage": 0.5953140350877193,
+    "merged_coverage": 1.1047877192982456
+  },
+  {
+    "image": "images/ground_truth_img6.png",
+    "structured_regions": 9,
+    "unstructured_regions": 9,
+    "merged_regions": 12,
+    "structured_coverage": 0.30505263157894735,
+    "unstructured_coverage": 0.28774736842105264,
+    "merged_coverage": 0.4009684210526316
+  },
+  {
+    "image": "images/ground_truth_img7.png",
+    "structured_regions": 21,
+    "unstructured_regions": 0,
+    "merged_regions": 12,
+    "structured_coverage": 1.0018552631578947,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.8493421052631579
+  },
+  {
+    "image": "images/ground_truth_img8.png",
+    "structured_regions": 11,
+    "unstructured_regions": 3,
+    "merged_regions": 12,
+    "structured_coverage": 0.74723125,
+    "unstructured_coverage": 0.05308125,
+    "merged_coverage": 0.7739958333333333
+  },
+  {
+    "image": "images/ground_truth_img9.png",
+    "structured_regions": 5,
+    "unstructured_regions": 0,
+    "merged_regions": 5,
+    "structured_coverage": 0.706115625,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.706115625
+  },
+  {
+    "image": "images/selected_vis_1_img0.png",
+    "structured_regions": 9,
+    "unstructured_regions": 0,
+    "merged_regions": 9,
+    "structured_coverage": 0.5509259877847672,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.5509259877847672
+  },
+  {
+    "image": "images/selected_vis_1_img1.png",
+    "structured_regions": 2,
+    "unstructured_regions": 13,
+    "merged_regions": 12,
+    "structured_coverage": 0.15384615384615385,
+    "unstructured_coverage": 0.0792998255309813,
+    "merged_coverage": 0.23586661651988286
+  },
+  {
+    "image": "images/selected_vis_1_img10.png",
+    "structured_regions": 5,
+    "unstructured_regions": 0,
+    "merged_regions": 5,
+    "structured_coverage": 0.6688266666666667,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.6688266666666667
+  },
+  {
+    "image": "images/selected_vis_1_img11.png",
+    "structured_regions": 3,
+    "unstructured_regions": 1,
+    "merged_regions": 4,
+    "structured_coverage": 0.7001574111359227,
+    "unstructured_coverage": 0.29283230222938095,
+    "merged_coverage": 0.9929897133653036
+  },
+  {
+    "image": "images/selected_vis_1_img12.png",
+    "structured_regions": 2,
+    "unstructured_regions": 2,
+    "merged_regions": 4,
+    "structured_coverage": 0.8970781784680179,
+    "unstructured_coverage": 0.8907662974522674,
+    "merged_coverage": 1.7878444759202854
+  },
+  {
+    "image": "images/selected_vis_1_img13.png",
+    "structured_regions": 12,
+    "unstructured_regions": 5,
+    "merged_regions": 12,
+    "structured_coverage": 0.7700995009737098,
+    "unstructured_coverage": 0.4645813047711782,
+    "merged_coverage": 1.183313047711782
+  },
+  {
+    "image": "images/selected_vis_1_img14.png",
+    "structured_regions": 2,
+    "unstructured_regions": 5,
+    "merged_regions": 7,
+    "structured_coverage": 0.7767421996070822,
+    "unstructured_coverage": 0.04664128564630084,
+    "merged_coverage": 0.8233834852533831
+  },
+  {
+    "image": "images/selected_vis_1_img15.png",
+    "structured_regions": 0,
+    "unstructured_regions": 100,
+    "merged_regions": 12,
+    "structured_coverage": 0.0,
+    "unstructured_coverage": 0.7829072026289949,
+    "merged_coverage": 1.184125719796078
+  },
+  {
+    "image": "images/selected_vis_1_img16.png",
+    "structured_regions": 10,
+    "unstructured_regions": 3,
+    "merged_regions": 12,
+    "structured_coverage": 0.377440651776935,
+    "unstructured_coverage": 0.5201297824931349,
+    "merged_coverage": 0.8842534063773002
+  },
+  {
+    "image": "images/selected_vis_1_img17.png",
+    "structured_regions": 0,
+    "unstructured_regions": 0,
+    "merged_regions": 0,
+    "structured_coverage": 0.0,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.0
+  },
+  {
+    "image": "images/selected_vis_1_img18.png",
+    "structured_regions": 0,
+    "unstructured_regions": 0,
+    "merged_regions": 0,
+    "structured_coverage": 0.0,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.0
+  },
+  {
+    "image": "images/selected_vis_1_img19.png",
+    "structured_regions": 2,
+    "unstructured_regions": 0,
+    "merged_regions": 2,
+    "structured_coverage": 0.7458162407099088,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.7458162407099088
+  },
+  {
+    "image": "images/selected_vis_1_img2.png",
+    "structured_regions": 8,
+    "unstructured_regions": 1,
+    "merged_regions": 9,
+    "structured_coverage": 0.10118038441924607,
+    "unstructured_coverage": 0.25351165032212936,
+    "merged_coverage": 0.3546920347413754
+  },
+  {
+    "image": "images/selected_vis_1_img20.png",
+    "structured_regions": 5,
+    "unstructured_regions": 1,
+    "merged_regions": 6,
+    "structured_coverage": 0.8412762557499399,
+    "unstructured_coverage": 0.7631578947368421,
+    "merged_coverage": 1.604434150486782
+  },
+  {
+    "image": "images/selected_vis_1_img21.png",
+    "structured_regions": 15,
+    "unstructured_regions": 1,
+    "merged_regions": 12,
+    "structured_coverage": 1.0429050789391163,
+    "unstructured_coverage": 0.23800767525849068,
+    "merged_coverage": 1.2273352688580332
+  },
+  {
+    "image": "images/selected_vis_1_img22.png",
+    "structured_regions": 12,
+    "unstructured_regions": 0,
+    "merged_regions": 12,
+    "structured_coverage": 1.8885042419213331,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 1.8885042419213331
+  },
+  {
+    "image": "images/selected_vis_1_img23.png",
+    "structured_regions": 15,
+    "unstructured_regions": 0,
+    "merged_regions": 12,
+    "structured_coverage": 0.974162515685007,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.9264458724666337
+  },
+  {
+    "image": "images/selected_vis_1_img24.png",
+    "structured_regions": 6,
+    "unstructured_regions": 1,
+    "merged_regions": 7,
+    "structured_coverage": 0.8806293092328369,
+    "unstructured_coverage": 0.8405266574292526,
+    "merged_coverage": 1.7211559666620895
+  },
+  {
+    "image": "images/selected_vis_1_img25.png",
+    "structured_regions": 9,
+    "unstructured_regions": 1,
+    "merged_regions": 10,
+    "structured_coverage": 0.6849107042884336,
+    "unstructured_coverage": 0.6508562171089464,
+    "merged_coverage": 1.33576692139738
+  },
+  {
+    "image": "images/selected_vis_1_img26.png",
+    "structured_regions": 12,
+    "unstructured_regions": 1,
+    "merged_regions": 12,
+    "structured_coverage": 0.751427773574028,
+    "unstructured_coverage": 0.027204266205455265,
+    "merged_coverage": 0.7688913510851679
+  },
+  {
+    "image": "images/selected_vis_1_img27.png",
+    "structured_regions": 2,
+    "unstructured_regions": 0,
+    "merged_regions": 2,
+    "structured_coverage": 0.7879800920274204,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.7879800920274204
+  },
+  {
+    "image": "images/selected_vis_1_img28.png",
+    "structured_regions": 15,
+    "unstructured_regions": 0,
+    "merged_regions": 12,
+    "structured_coverage": 0.9247843056489407,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.9131241910830855
+  },
+  {
+    "image": "images/selected_vis_1_img29.png",
+    "structured_regions": 11,
+    "unstructured_regions": 1,
+    "merged_regions": 12,
+    "structured_coverage": 0.7413845877795721,
+    "unstructured_coverage": 0.584132864697128,
+    "merged_coverage": 1.3255174524767002
+  },
+  {
+    "image": "images/selected_vis_1_img3.png",
+    "structured_regions": 22,
+    "unstructured_regions": 2,
+    "merged_regions": 12,
+    "structured_coverage": 1.1486163513858096,
+    "unstructured_coverage": 0.08591673473621429,
+    "merged_coverage": 1.1211962088503378
+  },
+  {
+    "image": "images/selected_vis_1_img30.png",
+    "structured_regions": 8,
+    "unstructured_regions": 0,
+    "merged_regions": 8,
+    "structured_coverage": 0.9381017858807549,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.9381017858807549
+  },
+  {
+    "image": "images/selected_vis_1_img31.png",
+    "structured_regions": 5,
+    "unstructured_regions": 0,
+    "merged_regions": 5,
+    "structured_coverage": 0.8893755082678233,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.8893755082678233
+  },
+  {
+    "image": "images/selected_vis_1_img32.png",
+    "structured_regions": 16,
+    "unstructured_regions": 0,
+    "merged_regions": 12,
+    "structured_coverage": 1.1462506420133538,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 1.0644474405067625
+  },
+  {
+    "image": "images/selected_vis_1_img33.png",
+    "structured_regions": 5,
+    "unstructured_regions": 0,
+    "merged_regions": 5,
+    "structured_coverage": 0.8918518518518519,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.8918518518518519
+  },
+  {
+    "image": "images/selected_vis_1_img34.png",
+    "structured_regions": 9,
+    "unstructured_regions": 0,
+    "merged_regions": 9,
+    "structured_coverage": 0.9317840716533528,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.9317840716533528
+  },
+  {
+    "image": "images/selected_vis_1_img35.png",
+    "structured_regions": 14,
+    "unstructured_regions": 0,
+    "merged_regions": 12,
+    "structured_coverage": 1.1450851494581398,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 1.0914278909134214
+  },
+  {
+    "image": "images/selected_vis_1_img36.png",
+    "structured_regions": 5,
+    "unstructured_regions": 0,
+    "merged_regions": 5,
+    "structured_coverage": 0.9001115093588212,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.9001115093588212
+  },
+  {
+    "image": "images/selected_vis_1_img37.png",
+    "structured_regions": 15,
+    "unstructured_regions": 0,
+    "merged_regions": 12,
+    "structured_coverage": 1.039050116043421,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.9941744196156856
+  },
+  {
+    "image": "images/selected_vis_1_img38.png",
+    "structured_regions": 29,
+    "unstructured_regions": 0,
+    "merged_regions": 12,
+    "structured_coverage": 1.3718347840928486,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 1.210179211469534
+  },
+  {
+    "image": "images/selected_vis_1_img39.png",
+    "structured_regions": 22,
+    "unstructured_regions": 1,
+    "merged_regions": 12,
+    "structured_coverage": 0.4977550700280112,
+    "unstructured_coverage": 0.3697104761904762,
+    "merged_coverage": 0.45882868347338934
+  },
+  {
+    "image": "images/selected_vis_1_img4.png",
+    "structured_regions": 2,
+    "unstructured_regions": 5,
+    "merged_regions": 7,
+    "structured_coverage": 0.7081809523809524,
+    "unstructured_coverage": 0.7772209523809523,
+    "merged_coverage": 1.4854019047619047
+  },
+  {
+    "image": "images/selected_vis_1_img40.png",
+    "structured_regions": 8,
+    "unstructured_regions": 0,
+    "merged_regions": 8,
+    "structured_coverage": 0.8836273278241583,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.8836273278241583
+  },
+  {
+    "image": "images/selected_vis_1_img41.png",
+    "structured_regions": 9,
+    "unstructured_regions": 0,
+    "merged_regions": 9,
+    "structured_coverage": 0.8157693660776556,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.8157693660776556
+  },
+  {
+    "image": "images/selected_vis_1_img42.png",
+    "structured_regions": 9,
+    "unstructured_regions": 75,
+    "merged_regions": 12,
+    "structured_coverage": 0.9034078300840069,
+    "unstructured_coverage": 0.962593120938342,
+    "merged_coverage": 2.2556698450834647
+  },
+  {
+    "image": "images/selected_vis_1_img5.png",
+    "structured_regions": 6,
+    "unstructured_regions": 9,
+    "merged_regions": 12,
+    "structured_coverage": 0.49344622222222223,
+    "unstructured_coverage": 0.5762546666666667,
+    "merged_coverage": 0.8252653333333333
+  },
+  {
+    "image": "images/selected_vis_1_img6.png",
+    "structured_regions": 9,
+    "unstructured_regions": 9,
+    "merged_regions": 12,
+    "structured_coverage": 0.5683611111111111,
+    "unstructured_coverage": 0.5561166666666667,
+    "merged_coverage": 0.7533944444444445
+  },
+  {
+    "image": "images/selected_vis_1_img7.png",
+    "structured_regions": 9,
+    "unstructured_regions": 0,
+    "merged_regions": 9,
+    "structured_coverage": 0.73139,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.73139
+  },
+  {
+    "image": "images/selected_vis_1_img8.png",
+    "structured_regions": 7,
+    "unstructured_regions": 2,
+    "merged_regions": 9,
+    "structured_coverage": 0.69871,
+    "unstructured_coverage": 0.03853,
+    "merged_coverage": 0.73724
+  },
+  {
+    "image": "images/selected_vis_1_img9.png",
+    "structured_regions": 6,
+    "unstructured_regions": 1,
+    "merged_regions": 7,
+    "structured_coverage": 0.560835,
+    "unstructured_coverage": 0.009928333333333334,
+    "merged_coverage": 0.5707633333333333
+  },
+  {
+    "image": "images/selected_vis_2_img0.png",
+    "structured_regions": 9,
+    "unstructured_regions": 0,
+    "merged_regions": 9,
+    "structured_coverage": 0.6402738852206487,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.6402738852206487
+  },
+  {
+    "image": "images/selected_vis_2_img1.png",
+    "structured_regions": 8,
+    "unstructured_regions": 14,
+    "merged_regions": 12,
+    "structured_coverage": 0.6325031207823375,
+    "unstructured_coverage": 0.08727596007241137,
+    "merged_coverage": 0.6542016555116932
+  },
+  {
+    "image": "images/selected_vis_2_img10.png",
+    "structured_regions": 8,
+    "unstructured_regions": 0,
+    "merged_regions": 8,
+    "structured_coverage": 0.71070625,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.71070625
+  },
+  {
+    "image": "images/selected_vis_2_img11.png",
+    "structured_regions": 3,
+    "unstructured_regions": 1,
+    "merged_regions": 4,
+    "structured_coverage": 0.7155141870893944,
+    "unstructured_coverage": 0.2996214076750989,
+    "merged_coverage": 1.0151355947644933
+  },
+  {
+    "image": "images/selected_vis_2_img12.png",
+    "structured_regions": 5,
+    "unstructured_regions": 3,
+    "merged_regions": 8,
+    "structured_coverage": 0.8653014720094404,
+    "unstructured_coverage": 0.9224016032390311,
+    "merged_coverage": 1.7877030752484715
+  },
+  {
+    "image": "images/selected_vis_2_img13.png",
+    "structured_regions": 12,
+    "unstructured_regions": 7,
+    "merged_regions": 12,
+    "structured_coverage": 0.7582699920227577,
+    "unstructured_coverage": 0.4993512846370355,
+    "merged_coverage": 1.1994972832222037
+  },
+  {
+    "image": "images/selected_vis_2_img14.png",
+    "structured_regions": 2,
+    "unstructured_regions": 4,
+    "merged_regions": 6,
+    "structured_coverage": 0.7749258854735528,
+    "unstructured_coverage": 0.029149113226192333,
+    "merged_coverage": 0.8040749986997452
+  },
+  {
+    "image": "images/selected_vis_2_img15.png",
+    "structured_regions": 8,
+    "unstructured_regions": 1,
+    "merged_regions": 9,
+    "structured_coverage": 0.6952539091586002,
+    "unstructured_coverage": 0.5724497393894267,
+    "merged_coverage": 1.2677036485480269
+  },
+  {
+    "image": "images/selected_vis_2_img16.png",
+    "structured_regions": 5,
+    "unstructured_regions": 3,
+    "merged_regions": 8,
+    "structured_coverage": 0.4087027989589516,
+    "unstructured_coverage": 0.5455458654855943,
+    "merged_coverage": 0.9542486644445459
+  },
+  {
+    "image": "images/selected_vis_2_img17.png",
+    "structured_regions": 0,
+    "unstructured_regions": 0,
+    "merged_regions": 0,
+    "structured_coverage": 0.0,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.0
+  },
+  {
+    "image": "images/selected_vis_2_img18.png",
+    "structured_regions": 2,
+    "unstructured_regions": 2,
+    "merged_regions": 4,
+    "structured_coverage": 0.7222834017760756,
+    "unstructured_coverage": 0.7235582269622814,
+    "merged_coverage": 1.445841628738357
+  },
+  {
+    "image": "images/selected_vis_2_img19.png",
+    "structured_regions": 1,
+    "unstructured_regions": 1,
+    "merged_regions": 2,
+    "structured_coverage": 0.7650375939849624,
+    "unstructured_coverage": 0.7631578947368421,
+    "merged_coverage": 1.5281954887218046
+  },
+  {
+    "image": "images/selected_vis_2_img2.png",
+    "structured_regions": 9,
+    "unstructured_regions": 5,
+    "merged_regions": 12,
+    "structured_coverage": 0.8750590803234594,
+    "unstructured_coverage": 0.3540608591782894,
+    "merged_coverage": 1.191915806600382
+  },
+  {
+    "image": "images/selected_vis_2_img20.png",
+    "structured_regions": 21,
+    "unstructured_regions": 2,
+    "merged_regions": 12,
+    "structured_coverage": 1.0663682245035078,
+    "unstructured_coverage": 0.6579998645812174,
+    "merged_coverage": 1.5709776715261177
+  },
+  {
+    "image": "images/selected_vis_2_img21.png",
+    "structured_regions": 11,
+    "unstructured_regions": 0,
+    "merged_regions": 11,
+    "structured_coverage": 1.6104477031389786,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 1.6104477031389786
+  },
+  {
+    "image": "images/selected_vis_2_img22.png",
+    "structured_regions": 19,
+    "unstructured_regions": 0,
+    "merged_regions": 12,
+    "structured_coverage": 1.0628056688385756,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.9517570587040423
+  },
+  {
+    "image": "images/selected_vis_2_img23.png",
+    "structured_regions": 6,
+    "unstructured_regions": 1,
+    "merged_regions": 7,
+    "structured_coverage": 0.9002140478833043,
+    "unstructured_coverage": 0.8655080213903743,
+    "merged_coverage": 1.7657220692736786
+  },
+  {
+    "image": "images/selected_vis_2_img24.png",
+    "structured_regions": 8,
+    "unstructured_regions": 1,
+    "merged_regions": 9,
+    "structured_coverage": 0.6910171790235081,
+    "unstructured_coverage": 0.5606072935503316,
+    "merged_coverage": 1.2516244725738397
+  },
+  {
+    "image": "images/selected_vis_2_img25.png",
+    "structured_regions": 12,
+    "unstructured_regions": 1,
+    "merged_regions": 12,
+    "structured_coverage": 0.7512656289410153,
+    "unstructured_coverage": 0.027204266205455265,
+    "merged_coverage": 0.7690474903614024
+  },
+  {
+    "image": "images/selected_vis_2_img26.png",
+    "structured_regions": 2,
+    "unstructured_regions": 0,
+    "merged_regions": 2,
+    "structured_coverage": 0.7736454220182178,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.7736454220182178
+  },
+  {
+    "image": "images/selected_vis_2_img27.png",
+    "structured_regions": 32,
+    "unstructured_regions": 0,
+    "merged_regions": 12,
+    "structured_coverage": 1.0332846835553076,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.849126210334799
+  },
+  {
+    "image": "images/selected_vis_2_img28.png",
+    "structured_regions": 5,
+    "unstructured_regions": 1,
+    "merged_regions": 6,
+    "structured_coverage": 0.7622425232719351,
+    "unstructured_coverage": 0.6850675876411171,
+    "merged_coverage": 1.4473101109130522
+  },
+  {
+    "image": "images/selected_vis_2_img29.png",
+    "structured_regions": 9,
+    "unstructured_regions": 0,
+    "merged_regions": 9,
+    "structured_coverage": 0.9461380471380472,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.9461380471380472
+  },
+  {
+    "image": "images/selected_vis_2_img3.png",
+    "structured_regions": 9,
+    "unstructured_regions": 2,
+    "merged_regions": 11,
+    "structured_coverage": 0.926494740711513,
+    "unstructured_coverage": 0.04762362447432408,
+    "merged_coverage": 0.9741183651858372
+  },
+  {
+    "image": "images/selected_vis_2_img30.png",
+    "structured_regions": 8,
+    "unstructured_regions": 0,
+    "merged_regions": 8,
+    "structured_coverage": 0.9615684783478748,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.9615684783478748
+  },
+  {
+    "image": "images/selected_vis_2_img31.png",
+    "structured_regions": 9,
+    "unstructured_regions": 0,
+    "merged_regions": 9,
+    "structured_coverage": 0.9814337813368698,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.9814337813368698
+  },
+  {
+    "image": "images/selected_vis_2_img32.png",
+    "structured_regions": 16,
+    "unstructured_regions": 0,
+    "merged_regions": 12,
+    "structured_coverage": 1.1918988597498024,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 1.102455258012608
+  },
+  {
+    "image": "images/selected_vis_2_img33.png",
+    "structured_regions": 9,
+    "unstructured_regions": 1,
+    "merged_regions": 10,
+    "structured_coverage": 0.9343013468013468,
+    "unstructured_coverage": 0.014141414141414142,
+    "merged_coverage": 0.9484427609427609
+  },
+  {
+    "image": "images/selected_vis_2_img34.png",
+    "structured_regions": 5,
+    "unstructured_regions": 1,
+    "merged_regions": 6,
+    "structured_coverage": 0.8950631636053631,
+    "unstructured_coverage": 0.004440181869849389,
+    "merged_coverage": 0.8995033454752125
+  },
+  {
+    "image": "images/selected_vis_2_img35.png",
+    "structured_regions": 14,
+    "unstructured_regions": 0,
+    "merged_regions": 12,
+    "structured_coverage": 1.024201908864112,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.9941510102800425
+  },
+  {
+    "image": "images/selected_vis_2_img36.png",
+    "structured_regions": 6,
+    "unstructured_regions": 0,
+    "merged_regions": 6,
+    "structured_coverage": 0.9264316570828743,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.9264316570828743
+  },
+  {
+    "image": "images/selected_vis_2_img37.png",
+    "structured_regions": 35,
+    "unstructured_regions": 1,
+    "merged_regions": 12,
+    "structured_coverage": 1.1281450810383202,
+    "unstructured_coverage": 0.7782441226420721,
+    "merged_coverage": 0.9201227335572327
+  },
+  {
+    "image": "images/selected_vis_2_img38.png",
+    "structured_regions": 5,
+    "unstructured_regions": 0,
+    "merged_regions": 5,
+    "structured_coverage": 0.8684948524267131,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.8684948524267131
+  },
+  {
+    "image": "images/selected_vis_2_img39.png",
+    "structured_regions": 9,
+    "unstructured_regions": 0,
+    "merged_regions": 9,
+    "structured_coverage": 0.8073747480564354,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.8073747480564354
+  },
+  {
+    "image": "images/selected_vis_2_img4.png",
+    "structured_regions": 5,
+    "unstructured_regions": 0,
+    "merged_regions": 5,
+    "structured_coverage": 0.888336,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.888336
+  },
+  {
+    "image": "images/selected_vis_2_img40.png",
+    "structured_regions": 16,
+    "unstructured_regions": 2,
+    "merged_regions": 12,
+    "structured_coverage": 4.421329894702307,
+    "unstructured_coverage": 0.015390780897324886,
+    "merged_coverage": 1.375869780538096
+  },
+  {
+    "image": "images/selected_vis_2_img5.png",
+    "structured_regions": 6,
+    "unstructured_regions": 10,
+    "merged_regions": 12,
+    "structured_coverage": 0.3920666666666667,
+    "unstructured_coverage": 0.41868518518518516,
+    "merged_coverage": 0.5599449074074074
+  },
+  {
+    "image": "images/selected_vis_2_img6.png",
+    "structured_regions": 11,
+    "unstructured_regions": 4,
+    "merged_regions": 12,
+    "structured_coverage": 0.7505133333333334,
+    "unstructured_coverage": 0.01574888888888889,
+    "merged_coverage": 0.7533133333333333
+  },
+  {
+    "image": "images/selected_vis_2_img7.png",
+    "structured_regions": 4,
+    "unstructured_regions": 0,
+    "merged_regions": 4,
+    "structured_coverage": 0.8236333333333333,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.8236333333333333
+  },
+  {
+    "image": "images/selected_vis_2_img8.png",
+    "structured_regions": 18,
+    "unstructured_regions": 0,
+    "merged_regions": 12,
+    "structured_coverage": 0.9298236842105263,
+    "unstructured_coverage": 0.0,
+    "merged_coverage": 0.8356842105263158
+  },
+  {
+    "image": "images/selected_vis_2_img9.png",
+    "structured_regions": 12,
+    "unstructured_regions": 2,
+    "merged_regions": 12,
+    "structured_coverage": 0.60615875,
+    "unstructured_coverage": 0.0223225,
+    "merged_coverage": 0.61279625
+  }
+]

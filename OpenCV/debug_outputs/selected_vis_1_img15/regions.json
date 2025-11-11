@@ -1,0 +1,1127 @@
+{
+  "structured": [],
+  "unstructured": [
+    {
+      "bbox": [
+        11,
+        10,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        159,
+        10,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        308,
+        10,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        456,
+        10,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        605,
+        10,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        753,
+        10,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        902,
+        10,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1050,
+        10,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1198,
+        10,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1347,
+        10,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        11,
+        159,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        159,
+        159,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        308,
+        159,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        456,
+        159,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        605,
+        159,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        753,
+        159,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        902,
+        159,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1050,
+        159,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1198,
+        159,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1347,
+        159,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        11,
+        307,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        159,
+        307,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        308,
+        307,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        456,
+        307,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        605,
+        307,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        753,
+        307,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        902,
+        307,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1050,
+        307,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1198,
+        307,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1347,
+        307,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        11,
+        456,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        159,
+        456,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        308,
+        456,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        456,
+        456,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        605,
+        456,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        753,
+        456,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        902,
+        456,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1050,
+        456,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1198,
+        456,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1347,
+        456,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        11,
+        604,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        159,
+        604,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        308,
+        604,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        456,
+        604,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        605,
+        604,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        753,
+        604,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        902,
+        604,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1050,
+        604,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1198,
+        604,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1347,
+        604,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        11,
+        753,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        159,
+        753,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        308,
+        753,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        456,
+        753,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        605,
+        753,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        753,
+        753,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        902,
+        753,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1050,
+        753,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1198,
+        753,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1347,
+        753,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        11,
+        901,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        159,
+        901,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        308,
+        901,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        456,
+        901,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        605,
+        901,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        753,
+        901,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        902,
+        901,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1050,
+        901,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1198,
+        901,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1347,
+        901,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        11,
+        1050,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        159,
+        1050,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        308,
+        1050,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        456,
+        1050,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        605,
+        1050,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        753,
+        1050,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        902,
+        1050,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1050,
+        1050,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1198,
+        1050,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1347,
+        1050,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        11,
+        1198,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        159,
+        1198,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        308,
+        1198,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        456,
+        1198,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        605,
+        1198,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        753,
+        1198,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        902,
+        1198,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1050,
+        1198,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1198,
+        1198,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1347,
+        1198,
+        132,
+        132
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        11,
+        1347,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        159,
+        1347,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        308,
+        1347,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        456,
+        1347,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        605,
+        1347,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        753,
+        1347,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        902,
+        1347,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1050,
+        1347,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1198,
+        1347,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1347,
+        1347,
+        132,
+        131
+      ],
+      "label": "segment",
+      "score": 0.8
+    }
+  ],
+  "merged": [
+    {
+      "bbox": [
+        11,
+        10,
+        577,
+        280
+      ],
+      "label": "segment+segment+segment+segment+segment+segment+segment+segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        605,
+        10,
+        577,
+        280
+      ],
+      "label": "segment+segment+segment+segment+segment+segment+segment+segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        11,
+        307,
+        577,
+        280
+      ],
+      "label": "segment+segment+segment+segment+segment+segment+segment+segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        605,
+        307,
+        577,
+        280
+      ],
+      "label": "segment+segment+segment+segment+segment+segment+segment+segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        11,
+        604,
+        577,
+        280
+      ],
+      "label": "segment+segment+segment+segment+segment+segment+segment+segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        605,
+        604,
+        577,
+        280
+      ],
+      "label": "segment+segment+segment+segment+segment+segment+segment+segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        605,
+        901,
+        577,
+        280
+      ],
+      "label": "segment+segment+segment+segment+segment+segment+segment+segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        11,
+        1198,
+        577,
+        280
+      ],
+      "label": "segment+segment+segment+segment+segment+segment+segment+segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        605,
+        1198,
+        577,
+        280
+      ],
+      "label": "segment+segment+segment+segment+segment+segment+segment+segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1198,
+        10,
+        281,
+        577
+      ],
+      "label": "segment+segment+segment+segment+segment+segment+segment+segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        1198,
+        604,
+        281,
+        577
+      ],
+      "label": "segment+segment+segment+segment+segment+segment+segment+segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        11,
+        901,
+        1468,
+        577
+      ],
+      "label": "segment+segment+segment+segment+segment+segment+segment+segment+segment+segment+segment+segment",
+      "score": 0.8
+    }
+  ]
+}

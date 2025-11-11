@@ -1,0 +1,268 @@
+{
+  "structured": [
+    {
+      "bbox": [
+        99,
+        71,
+        623,
+        465
+      ],
+      "label": "bar",
+      "score": 0.9966516508741953
+    },
+    {
+      "bbox": [
+        94,
+        65,
+        632,
+        12
+      ],
+      "label": "line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        63,
+        143,
+        664,
+        12
+      ],
+      "label": "line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        93,
+        527,
+        634,
+        12
+      ],
+      "label": "line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        94,
+        529,
+        632,
+        12
+      ],
+      "label": "line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        63,
+        146,
+        664,
+        12
+      ],
+      "label": "line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        93,
+        67,
+        634,
+        12
+      ],
+      "label": "line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        715,
+        66,
+        12,
+        474
+      ],
+      "label": "line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        95,
+        68,
+        12,
+        470
+      ],
+      "label": "line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        713,
+        68,
+        12,
+        470
+      ],
+      "label": "line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        93,
+        66,
+        12,
+        474
+      ],
+      "label": "line",
+      "score": 0.9
+    }
+  ],
+  "unstructured": [
+    {
+      "bbox": [
+        100,
+        144,
+        480,
+        32
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        326,
+        153,
+        64,
+        39
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        404,
+        153,
+        121,
+        63
+      ],
+      "label": "segment",
+      "score": 0.8
+    }
+  ],
+  "merged": [
+    {
+      "bbox": [
+        99,
+        71,
+        623,
+        465
+      ],
+      "label": "bar",
+      "score": 0.9966516508741953
+    },
+    {
+      "bbox": [
+        63,
+        143,
+        664,
+        12
+      ],
+      "label": "line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        63,
+        146,
+        664,
+        12
+      ],
+      "label": "line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        715,
+        66,
+        12,
+        474
+      ],
+      "label": "line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        95,
+        68,
+        12,
+        470
+      ],
+      "label": "line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        713,
+        68,
+        12,
+        470
+      ],
+      "label": "line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        93,
+        66,
+        12,
+        474
+      ],
+      "label": "line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        100,
+        144,
+        480,
+        32
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        326,
+        153,
+        64,
+        39
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        404,
+        153,
+        121,
+        63
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        93,
+        65,
+        634,
+        14
+      ],
+      "label": "line+line",
+      "score": 0.9
+    },
+    {
+      "bbox": [
+        93,
+        527,
+        634,
+        14
+      ],
+      "label": "line+line",
+      "score": 0.9
+    }
+  ]
+}

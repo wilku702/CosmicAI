@@ -1,0 +1,338 @@
+{
+  "structured": [
+    {
+      "bbox": [
+        834,
+        30,
+        12,
+        806
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        57,
+        31,
+        12,
+        783
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        32,
+        802,
+        813,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        832,
+        33,
+        12,
+        803
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        34,
+        800,
+        809,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        59,
+        33,
+        12,
+        778
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        156,
+        33,
+        12,
+        778
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        32,
+        717,
+        685,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        34,
+        715,
+        683,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        154,
+        33,
+        12,
+        778
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        640,
+        8,
+        12,
+        827
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        735,
+        33,
+        12,
+        686
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        737,
+        33,
+        12,
+        686
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        544,
+        19,
+        12,
+        817
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        34,
+        629,
+        809,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        60,
+        631,
+        783,
+        12
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        253,
+        33,
+        12,
+        803
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        302,
+        84,
+        12,
+        576
+      ],
+      "label": "line",
+      "score": 0.9
+    }
+  ],
+  "unstructured": [
+    {
+      "bbox": [
+        280,
+        91,
+        188,
+        279
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        256,
+        306,
+        95,
+        92
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        243,
+        347,
+        343,
+        294
+      ],
+      "label": "segment",
+      "score": 0.8
+    }
+  ],
+  "merged": [
+    {
+      "bbox": [
+        640,
+        8,
+        12,
+        827
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        544,
+        19,
+        12,
+        817
+      ],
+      "label": "axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        280,
+        91,
+        188,
+        279
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        243,
+        347,
+        343,
+        294
+      ],
+      "label": "segment",
+      "score": 0.8
+    },
+    {
+      "bbox": [
+        154,
+        33,
+        14,
+        778
+      ],
+      "label": "axis+axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        735,
+        33,
+        14,
+        686
+      ],
+      "label": "axis+axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        32,
+        715,
+        685,
+        14
+      ],
+      "label": "axis+axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        832,
+        30,
+        14,
+        806
+      ],
+      "label": "axis+axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        32,
+        800,
+        813,
+        14
+      ],
+      "label": "axis+axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        57,
+        31,
+        14,
+        783
+      ],
+      "label": "axis+axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        34,
+        629,
+        809,
+        14
+      ],
+      "label": "axis+axis",
+      "score": 0.7
+    },
+    {
+      "bbox": [
+        253,
+        33,
+        98,
+        803
+      ],
+      "label": "axis+line+segment",
+      "score": 0.775
+    }
+  ]
+}
