@@ -127,6 +127,62 @@ def _run_eval_generated(args: argparse.Namespace) -> None:
     (out_dir / "vlm_prompt.txt").write_text(prompt, encoding="utf-8")
 
 
+def _run_image_tests(args: argparse.Namespace) -> None:
+    image_dir = Path(args.images).expanduser()
+    images = _collect_images(image_dir)
+    if args.limit is not None and args.limit > 0:
+        images = images[: args.limit]
+    if not images:
+        raise FileNotFoundError(f"No supported images found in {args.images}")
+
+    out_root = Path(args.out).expanduser()
+    out_root.mkdir(parents=True, exist_ok=True)
+
+    summary: List[dict] = []
+    for idx, image_path in enumerate(images, start=1):
+        image = cv2.imread(str(image_path))
+        if image is None:
+            if not args.quiet:
+                print(f"[{idx}/{len(images)}] Skipping {image_path} (failed to load).")
+            continue
+
+        artifacts = preprocess_for_llm(
+            image,
+            max_dim=args.max_dim,
+            pad_to_square=args.pad_to_square,
+            clahe_clip_limit=args.clahe_clip,
+            clahe_grid=tuple(args.clahe_grid),
+            adaptive_block_size=args.adaptive_block,
+            adaptive_c=args.adaptive_c,
+            skeleton_kernel=args.skeleton_kernel,
+            palette_size=args.palette_size,
+        )
+        observation = observe_generated_chart(str(image_path), artifacts=artifacts)
+
+        target = out_root / image_path.stem
+        save_overlays(artifacts, target / "overlays")
+        with (target / "observation.json").open("w", encoding="utf-8") as fh:
+            json.dump(observation, fh, indent=2)
+
+        summary.append(
+            {
+                "image": str(image_path),
+                "inferred": observation["inferred"],
+                "stats": observation["stats"],
+            }
+        )
+
+        if not args.quiet:
+            inferred = observation["inferred"]
+            print(
+                f"[{idx}/{len(images)}] {image_path.name} -> "
+                f"type={inferred['chart_type']} legend={inferred['legend_present']} series={inferred['series_count']}"
+            )
+
+    with (out_root / "summary.json").open("w", encoding="utf-8") as fh:
+        json.dump(summary, fh, indent=2)
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         description="Chart preprocessing and spec-only evaluation utilities."
@@ -170,6 +226,29 @@ def build_parser() -> argparse.ArgumentParser:
         help="Directory where evaluation artifacts are written.",
     )
 
+    test_parser = subparsers.add_parser(
+        "test-images",
+        help="Run observation diagnostics across an images folder.",
+    )
+    test_parser.add_argument("--images", required=True, help="Directory with generated images.")
+    test_parser.add_argument("--out", required=True, help="Directory for test reports/overlays.")
+    test_parser.add_argument("--limit", type=int, default=None)
+    test_parser.add_argument("--max-dim", type=int, default=768)
+    test_parser.add_argument("--no-pad", action="store_false", dest="pad_to_square")
+    test_parser.add_argument("--clahe-clip", type=float, default=2.0)
+    test_parser.add_argument(
+        "--clahe-grid",
+        type=int,
+        nargs=2,
+        metavar=("W", "H"),
+        default=(8, 8),
+    )
+    test_parser.add_argument("--adaptive-block", type=int, default=35)
+    test_parser.add_argument("--adaptive-c", type=int, default=7)
+    test_parser.add_argument("--skeleton-kernel", type=int, default=3)
+    test_parser.add_argument("--palette-size", type=int, default=5)
+    test_parser.add_argument("--quiet", action="store_true")
+
     return parser
 
 
@@ -206,6 +285,10 @@ def main(argv: List[str] | None = None) -> None:
 
     if parsed.command == "eval-gen":
         _run_eval_generated(parsed)
+        return
+
+    if parsed.command == "test-images":
+        _run_image_tests(parsed)
         return
 
     parser.print_help()

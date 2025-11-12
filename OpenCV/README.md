@@ -60,6 +60,20 @@ The evaluator infers chart type, legend presence/position, series count, and axi
 
 ---
 
+### Run Observation Tests on a Folder
+
+Quickly sanity-check every chart in a directory (no specs) and capture inferred properties:
+
+```bash
+python region_split.py test-images \
+    --images images/ \
+    --out reports/image_tests
+```
+
+For each image you’ll get `reports/image_tests/<name>/observation.json` plus overlays, and the root `summary.json` aggregates inferred chart types, legend presence, series counts, and axis heuristics.
+
+---
+
 ### Programmatic APIs
 
 ```python
